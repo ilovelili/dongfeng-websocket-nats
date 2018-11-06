@@ -3,7 +3,7 @@ package websocketnats
 import (
 	"sync"
 
-	"github.com/nats-io/go-nats"
+	nats "github.com/nats-io/go-nats"
 )
 
 // Pool is a simple connection pool for nats.io connections. It will create a small pool
