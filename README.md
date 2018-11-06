@@ -1,4 +1,4 @@
-# natsws
+# Websocket-nats
 
 WebSocket gateway for [nats.io](http://nats.io/). Supports login by JWT and json message formats.
 
